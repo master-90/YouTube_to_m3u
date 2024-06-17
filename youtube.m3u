@@ -12,14 +12,16 @@
 
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", SABAN TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718632370/ei/UutvZtLHDviLsfIP5LqCuAQ/ip/52.234.38.251/id/i0RoZvIq0k0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177566/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f54ZtjyTp6WGSVSS1R62wLxgdQm5Dh3Zftm7lS0oyn_j-ZWuwQubRBLKzMA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJjoDw21pRa61ugJejoAYhPIlCp8x3-KBZEWf8hAOBqlAiBSNOODB6SNqJ4rxbpQznEPQEnFAQGFe20SQe9dV1ORWw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718632641/ei/YexvZs-wHte2kucP86up0AU/ip/20.55.14.163/id/i0RoZvIq0k0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2GBoLaiVpi0QuoXprLdM5eoQz_9pxUPRMPMAbpa-hm8WI2wVfshsbdkO_A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgNz1j4AqJsKcS4HHTW3_Bkg73m40BStXx4eOdKHGWz2MCIQDznmW1Y9p3OcR5U_6SzM8zqbj8kEN7mebz1hlwbrWQJQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Top Tollywood hits (Aditya Music)
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", KURTLAR VADISI
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718632641/ei/YexvZqCYOcOLkucPyKy6kAM/ip/20.55.14.163/id/7auFhFsoTdA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4R7ceRvDGa7XTmcBtUtz-BWJYdX5QBJsJVHu01niWrVOExpT4E2dFhHgGw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRdOl8WFklwvSl9aDZO2YCsQrDsu-e2j1W6csLN777RMCIQDDP4kKwZ_nAwUP5vpYwlN8p-HPKeKjvNEmipXypmP5eQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Studio One
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", BAKU TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718632642/ei/YuxvZqbmG6CCkucP_7-BuA8/ip/20.55.14.163/id/MANxJPXMmts.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51198106/txs/51198104%2C51198105%2C51198106%2C51198107%2C51198108/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7_-hxZvihR6aYPvBoWGn4CeOQtzJdvUYwpQXQ5_iIjADBi1eiX7k7NO4aM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgCAsEDUkjixk-P9zPmTfKU7upIfU1N1FciEbJTnN2YGwCIHv3N1Ug9RU83kgxYkFmnX-njJ9MFmlzhLv0pJbFfnuF/file/index.m3u8
 
-#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Studio Yuva
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", SABAN TV
 
-#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Vanitha TV
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", SABAN TV
 
-#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Bhakthi TV
+#EXTINF:-1 group-title="" tvg-logo="" tvg-id="", SABAN TV
