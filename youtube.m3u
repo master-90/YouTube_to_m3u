@@ -10,16 +10,3 @@
 #                                  >> https://github.com/benmoose39     #
 #########################################################################
 
-
-#EXTINF:-1 group-title="Turk" tvg-logo="" tvg-id="", SABAN TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718631820/ei/LOlvZsrNHs2RybgPo4GqmAw/ip/20.88.15.125/id/i0RoZvIq0k0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177564/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzs34sliKLRSU0m4zKE4aZBdogNGpTbWevr7OP1nK11l0tunuFntOrTO4DM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKZ-XQvuPFpGhI-oEsrDQyzgFD-GQOjkF7q4QAgRjORMCIQCNLw7t0deKbtHJNQRS0RhPLFEHe6VOvdiS3Jm2Vdu1RA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Top Tollywood hits (Aditya Music)
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Studio One
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Studio Yuva
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Vanitha TV
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="" tvg-id="", Bhakthi TV
