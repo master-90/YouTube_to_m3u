@@ -12,22 +12,22 @@
 
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", SABAN TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719000719/ei/L4p1ZuyxHbS3kucPl_uJ0Ac/ip/20.75.95.174/id/i0RoZvIq0k0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166971/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1yJZgsLapy1NYiqYecjKdPGptuGiNdbxKjOqcTz5DcSzig-RlTkySXNDhg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgO2RRhMuBj7D79RJhet7JdaLTNGpPDT1Q3q8UHCd3-_4CIQC7Bvk9rFlvKSCdkYpWXHiE2E4sfJuj-2MyI5-CEHOpWQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", KURTLAR VADISI
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719000720/ei/MIp1ZqvaAaeSkucPgvC-iAk/ip/20.75.95.174/id/7auFhFsoTdA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6cZO6wZXFDOMW7xPTuqAMkqGokIKId2rbWKUctv-4bzT02six4IUv2unRs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPmmQinUwMBwvpPeh763pQXZaXFWCISXVatwBFLnvGNnAiBdh2JdWsnwEhKJswjftd_3LEbhaJl46z9cnu8mQd75CQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", BAKU TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719000720/ei/MIp1ZsXdKru1kucP7Lus2A0/ip/20.75.95.174/id/SH4QCE3STg4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5RsiEHCdSbm1su3T5ezO4vZzoCSpBK8c7nb3PkNQYqD8xL23s48A_jJ5sI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOFYcd45FEgXnin3C-lPS1Z1C9dKrurna54pEV924lKmAiEAxt_m9FQokWnHL2rJPXydglE2d3tgvNMAQMLqH7zgygY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", SABAN TV 2
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719000721/ei/MYp1ZoHXD4-GkucPjb6S2AM/ip/20.75.95.174/id/hfx8H7YrmTw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1KKg8SNxnuC6nsC_1uf3utFzaq8ND48HMBDrztTh0c-8z5Joe7TQRhozGQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKG9L7EfFa2kU6U17Og2H0ylVWkXwSVbQF1N5NAHsd2_AiEAkR6Qh7IYFWGQvEDAtSgU2kRszy1N-iSzOOXlruqEj-g%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Magic Club
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719000721/ei/MYp1Zu3jLomBkucP0cKokAk/ip/20.75.95.174/id/6hDLRdFSJnI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3wm1NvhO-XvL6KkBqpODwpUj74jDfnw2khYmqFuZbqTiaNz2dEyXfca50w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKdrt7QPKGk48BLwaBfU1Dd5GCRDw-64MoOrdxYQei0QCIQDXLCUX5Jsi94lLevcJ7p6qNrEaGTO-q6RYhPQacVXNRA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", YESILCAM-ARZU-FILIM
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719000722/ei/Mop1ZuSpDYGFkucPs6eckAk/ip/20.75.95.174/id/li4kIJdyxs4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzqlDvMLrrEh4ClHuO2SlPrsOkP6_S4KwzZAw6CVeAygoURKQwmfy0nkJOk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOvcDAosIZDg9_hI7EqvJMy7ckDaGI0KAkaOFG0mFQX9AiEAjMk8t8Y7jxDG-UcxWUs6HUny2RBUHlW1WMsAwx21EsY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Masa ve Ayi
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
